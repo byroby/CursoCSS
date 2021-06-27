@@ -1,0 +1,11 @@
+@charset "utf-8";
+
+p{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:red;
+    font-size: 18px;
+    /*text-decoration-line: underline;*/
+  }
+
+  h1{text-align: center;color:blue}
+
+  body{background-color: rgb(142, 223, 142);}
